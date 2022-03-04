@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sunshine
-- 👀 I’m interested in using software to build a better world.
-- 🌱 I’m currently learning the application of machine learning to the financial interactions.
-- 📫 How to reach me sunshinepavelka@gmail.com
-- I have built this repository as a post education platform. 
--If you are reviewing my repository and have any questions or would like to see any more of my work please reach out. 
+This has been a passion project I have been working on over the last few months. It is a stock trading app that uses machine learning to predict the next day's high value for the selected stocks.
+
+This third generation includes automated education and evaluation of machine learing models. The order is as follows.
+
+
 
